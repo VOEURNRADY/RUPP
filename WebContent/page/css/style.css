@@ -1,0 +1,64 @@
+@CHARSET "ISO-8859-1";
+
+.wrapper{
+	width: 60%;
+}
+table ,tr,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table{
+	width: 100%;
+}
+#picEdit{
+	border: none;
+}
+.WidthInput{
+	width: 150px;
+}
+.tbHeader{
+	border: hidden;
+	width: 100%;
+}
+.thHeader{
+	border: hidden;
+		
+}
+input{
+	width: 80px;
+	color: black;
+	border-style:none;
+    background: transparent;
+}
+img{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-left: 250px;
+}
+.checkBox{
+	width: 30px;
+}
+.tableStyle{
+	width: 60%;
+}
+.tableStyle, .trStyle, .tdStyle{
+	border: hidden;
+}
+.widthCombobox{
+	width: 250px;
+	border: 1px solid #808080;
+}
+.widthInput{
+	width: 249px;
+	border: 1px solid #808080;
+}
+#search{
+	width: 100px;
+	border: 1px solid #808080;
+}
+.logout{
+	text-decoration: none;	
+}
+
+
